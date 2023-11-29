@@ -6,9 +6,9 @@ public class Main {
         mainMethodShowInfo();
     }
     private static void mainMethodShowMessageAble() {
-            System.out.println("Hello Asyl\n");
+            System.out.println("goodbye Asyl\n");
     }
     private static void mainMethodShowInfo() {
-        System.out.println("Hi");
+        System.out.println("bye");
     }
 }
